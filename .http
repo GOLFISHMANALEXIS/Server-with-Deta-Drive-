@@ -1,0 +1,8 @@
+###
+GET http://localhost:3000/
+
+###
+POST http://localhost:3000/upload
+
+###
+get http://localhost:3000/download/<filename>
